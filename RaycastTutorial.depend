@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1610669427 source:c:\users\z400\desktop\projetos\opengl raycast\raycasttutorial\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1610276129 c:\program files (x86)\codeblocks\glut-3.7.6-bin\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
